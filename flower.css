@@ -208,6 +208,9 @@ span {
   border-radius: 5px;
   background-position: bottom;
 }
+#email {
+  padding-left: 25px;
+}
 input {
   width: 500px;
   height: 60px;
